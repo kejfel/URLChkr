@@ -1,4 +1,5 @@
 #!/bin/bash
+# @copyright Copyright 2016 Eric C. Weig 
 
 httpUrl=$1
 
