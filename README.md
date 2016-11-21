@@ -5,7 +5,7 @@ If the HTTP status code is not 200 "OK", this program logs the invalid URL.
 
 Usage from LINUX commandline:
 
-bash read_lines.sh <filename>.txt
+bash read_lines.sh <i>filename</i>.txt
 
 Invalid URLs log:
 
