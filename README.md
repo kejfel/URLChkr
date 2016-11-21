@@ -4,7 +4,7 @@ This program reads URLs from a .txt file and checks the returned HTTP status cod
 
 If the HTTP status code is not 200 "OK", this program logs the invalid URL for future reference.
 
-<h4>Usage from LINUX commandline:</h4>
+<h4>Usage from LINUX command-line:</h4>
 
 bash read_lines.sh <i>filename</i>.txt
 
