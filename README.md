@@ -14,6 +14,6 @@ Invalid URLs are logged in a .txt file called 'invalid_urls'.
 
 <h4>Clear log file:</h4>
 
-bash clean_log.sh
+bash clear_log.sh
 
 
